@@ -10,7 +10,7 @@ $var_data1 = "[89, 125, 150, 175, 100, 125, 150, 175, 154, 120, 75, 100]";
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>AdminLTE 3 | ChartJS</title>
+    <title>yaranda910@gmail.com</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
